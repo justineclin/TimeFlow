@@ -9,7 +9,7 @@ import javax.imageio.*;
 
 public class AboutWindow extends Window {
 	
-	Image image;     
+	Image image;      
 	Display display;
 	int w=640, h=380;
 	
